@@ -1,9 +1,0 @@
-C:/Users/Пользователь/source/repos/cppl.hw.4.1/out/build/x64-Debug/CMakeFiles/demoVendorCatch2.dir
-C:/Users/Пользователь/source/repos/cppl.hw.4.1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/Пользователь/source/repos/cppl.hw.4.1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Пользователь/source/repos/cppl.hw.4.1/out/build/x64-Debug/catch2/CMakeFiles/edit_cache.dir
-C:/Users/Пользователь/source/repos/cppl.hw.4.1/out/build/x64-Debug/catch2/CMakeFiles/rebuild_cache.dir
-C:/Users/Пользователь/source/repos/cppl.hw.4.1/out/build/x64-Debug/catch2/src/CMakeFiles/Catch2.dir
-C:/Users/Пользователь/source/repos/cppl.hw.4.1/out/build/x64-Debug/catch2/src/CMakeFiles/Catch2WithMain.dir
-C:/Users/Пользователь/source/repos/cppl.hw.4.1/out/build/x64-Debug/catch2/src/CMakeFiles/edit_cache.dir
-C:/Users/Пользователь/source/repos/cppl.hw.4.1/out/build/x64-Debug/catch2/src/CMakeFiles/rebuild_cache.dir
